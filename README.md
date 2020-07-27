@@ -10,8 +10,8 @@ Leaflet plugins for working with a handful of popular ArcGIS Service types.
 5. Calculating sun position, phases, moon position and lunar phase JavaScript library [SunCalc](https://github.com/mourner/suncalc)
    
 ### Lessons Learned
-1. xx
-1. xx 
+1. Using npm install spacetime or the script tag in html allowed me to gain access to requests to calculate time in remote timezones [SPACETIMEGEO](https://github.com/spencermountain/spacetime)
+1. Following along the documentayion for[Turfjs.org](http://turfjs.org/), for advanced geospatial analysis for browsers and node.js
 1. xx
 
 ### Let's Connect
