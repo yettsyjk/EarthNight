@@ -11,9 +11,9 @@ Leaflet plugins for working with a handful of popular ArcGIS Service types.
    
 ### Lessons Learned
 1. Using npm install spacetime or the script tag in html allowed me to gain access to requests to calculate time in remote timezones [SPACETIMEGEO](https://github.com/spencermountain/spacetime)
-1. Following along the documentayion for[Turfjs.org](http://turfjs.org/), for advanced geospatial analysis for browsers and node.js
-1. xx
-
+1. Following along the documentation for[Turf JavaScript](http://turfjs.org/), using advanced geospatial analysis for browsers and node.js
+1. CSS while styling the geomap, understanding the width and height parameters for the canvas
+   
 ### Let's Connect
 [Yettsy Knapp](https://www.linkedin.com/in/yettsy-jo-knapp/) a software developer in Denver, Colorado.
 July 2020
